@@ -1,0 +1,131 @@
+iinput,select{
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 85px;
+    text-align: center;
+    text-decoration: underline;
+   }
+ .tagline  {
+    font-size: 25px;
+    text-align: center;
+ }
+   
+/*my code*/
+ 
+.index-h1 {
+    color: rgb(134, 36, 247); .Home page {
+        font-size: 55px;
+        text-align: center;
+       }
+}
+
+.Home page {
+    font-size: 55px;
+    text-align: center;
+   }
+#a{
+    color: #f0480b;
+    border-style:solid;
+    width: none
+    border-top-width:10px;
+    border-bottom-width: 15px;
+    text-align: center;
+    margin top: 20px
+
+
+}
+
+#para{
+    text-indent: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    text-align: justify;
+    column-count: 3;
+    column-rule: 4px double orangered;
+    word-spacing: 5px;
+    font-size: large;
+}
+   
+body{
+    background-image: url(Cover\ image\ b.jpeg);
+    background-repeat: no-repeat;
+    background-color: white;
+    background-position:  right;
+    background-size: 730px 730px;
+    background-position: 1300px;
+    background-position-y:740px ;
+
+}
+p{
+
+    color: rgba(12, 12, 12, 0.89);
+    text-indent: 50px;
+    box-shadow: 0px 8px 3px 10px orangered;
+    text-align: justify;
+    column-count: 3;
+    column-rule: 4px double orangered ;
+    word-spacing: 3px;
+    letter-spacing: normal;
+    page-break-after: right;
+    word-break: initial
+    
+}
+#menu{
+    list-style-type: none;
+    background-color:lightgray;
+    padding-left:0px ;
+    font-size: x-large;
+    max-width:13500px ;
+    margin: 0px;
+    padding: 15px;
+     
+}
+#menu li{
+    margin-bottom: 15px;
+    display: inline;
+    margin-right: 320px;
+    text-decoration: solid;
+    
+    
+       
+}
+
+input{
+    background-size: 37px;
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 5px;
+    
+
+
+}
+#menu a{
+    color: #f0480b;
+}
+#myform{
+    width: 40%;
+    background-color:rgb(212, 211, 210) ;
+    margin-top: 30px;
+    padding: 50px; }
+    
+input{
+    width:  80%;
+    padding: 8px  10px;
+    border: 2px outset rgb(212, 211, 210);
+    border-radius: 6px;
+    outline: none;
+    font-size: larger;   
+}
+input:focus{
+    background-color: black;
+    color: #fcfbfb;
+}
+input[ type=reset],input[ type=submit]{
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+    
+
